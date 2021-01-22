@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "6009d8debca01d335ba63974"
+  },
+  "transaction_id": "d0090c40-539f-479a-8274-899b9970bddc",
+  "customer_name": "PT. AMARA PRIMATIGA",
+  "customer_code": "1678593",
+  "transaction_amount": "70700",
+  "transaction_discount": "0",
+  "transaction_additional_field": "",
+  "transaction_payment_type": "29",
+  "transaction_state": "PAID",
+  "transaction_code": "CGKFT20200715121",
+  "transaction_order": 121,
+  "location_id": "5cecb20b6c49615b174c3e74",
+  "organization_id": 6,
+  "created_at": "2020-07-15T11:11:12+0700",
+  "updated_at": "2020-07-15T11:11:22+0700",
+  "transaction_payment_type_name": "Invoice",
+  "transaction_cash_amount": 0,
+  "transaction_cash_change": 0,
+  "customer_attribute": {
+    "Nama_Sales": "Radit Fitrawikarsa",
+    "TOP": "14 Hari",
+    "Jenis_Pelanggan": "B2B"
+  },
+  "connote": {
+    "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+    "connote_number": 1,
+    "connote_service": "ECO",
+    "connote_service_price": 70700,
+    "connote_amount": 70700,
+    "connote_code": "AWB00100209082020",
+    "connote_booking_code": "",
+    "connote_order": 326931,
+    "connote_state": "PAID",
+    "connote_state_id": 2,
+    "zone_code_from": "CGKFT",
+    "zone_code_to": "SMG",
+    "surcharge_amount": null,
+    "transaction_id": "d0090c40-539f-479a-8274-899b9970bddc",
+    "actual_weight": 20,
+    "volume_weight": 0,
+    "chargeable_weight": 20,
+    "created_at": "2020-07-15T11:11:12+0700",
+    "updated_at": "2020-07-15T11:11:22+0700",
+    "organization_id": 6,
+    "location_id": "5cecb20b6c49615b174c3e74",
+    "connote_total_package": "3",
+    "connote_surcharge_amount": "0",
+    "connote_sla_day": "4",
+    "location_name": "Hub Jakarta Selatan",
+    "location_type": "HUB",
+    "source_tariff_db": "tariff_customers",
+    "id_source_tariff": "1576868",
+    "pod": null,
+    "history": []
+  },
+  "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+  "origin_data": {
+    "customer_name": "PT. NARA OKA PRAKARSA",
+    "customer_address": "JL. KH. AHMAD DAHLAN NO. 100, SEMARANG TENGAH 12420",
+    "customer_email": "info@naraoka.co.id",
+    "customer_phone": "024-1234567",
+    "customer_address_detail": null,
+    "customer_zip_code": "12420",
+    "zone_code": "CGKFT",
+    "organization_id": 6,
+    "location_id": "5cecb20b6c49615b174c3e74"
+  },
+  "destination_data": {
+    "customer_name": "PT AMARIS HOTEL SIMPANG LIMA",
+    "customer_address": "JL. KH. AHMAD DAHLAN NO. 01, SEMARANG TENGAH",
+    "customer_email": null,
+    "customer_phone": "0248453499",
+    "customer_address_detail": "KOTA SEMARANG SEMARANG TENGAH KARANGKIDUL",
+    "customer_zip_code": "50241",
+    "zone_code": "SMG",
+    "organization_id": 6,
+    "location_id": "5cecb20b6c49615b174c3e74"
+  },
+  "koli_data": [
+    {
+      "koli_length": 0,
+      "awb_url": "https://tracking.mile.app/label/AWB00100209082020.1",
+      "created_at": "2020-07-15 11:11:13",
+      "koli_chargeable_weight": 9,
+      "koli_width": 0,
+      "koli_surcharge": [],
+      "koli_height": 0,
+      "updated_at": "2020-07-15 11:11:13",
+      "koli_description": "V WARP",
+      "koli_formula_id": null,
+      "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+      "koli_volume": 0,
+      "koli_weight": 9,
+      "koli_id": "e2cb6d86-0bb9-409b-a1f0-389ed4f2df2d",
+      "koli_custom_field": {
+        "awb_sicepat": null,
+        "harga_barang": null
+      },
+      "koli_code": "AWB00100209082020.1"
+    },
+    {
+      "koli_length": 0,
+      "awb_url": "https://tracking.mile.app/label/AWB00100209082020.2",
+      "created_at": "2020-07-15 11:11:13",
+      "koli_chargeable_weight": 9,
+      "koli_width": 0,
+      "koli_surcharge": [],
+      "koli_height": 0,
+      "updated_at": "2020-07-15 11:11:13",
+      "koli_description": "V WARP",
+      "koli_formula_id": null,
+      "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+      "koli_volume": 0,
+      "koli_weight": 9,
+      "koli_id": "3600f10b-4144-4e58-a024-cc3178e7a709",
+      "koli_custom_field": {
+        "awb_sicepat": null,
+        "harga_barang": null
+      },
+      "koli_code": "AWB00100209082020.2"
+    },
+    {
+      "koli_length": 0,
+      "awb_url": "https://tracking.mile.app/label/AWB00100209082020.3",
+      "created_at": "2020-07-15 11:11:13",
+      "koli_chargeable_weight": 2,
+      "koli_width": 0,
+      "koli_surcharge": [],
+      "koli_height": 0,
+      "updated_at": "2020-07-15 11:11:13",
+      "koli_description": "LID HOT CUP",
+      "koli_formula_id": null,
+      "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+      "koli_volume": 0,
+      "koli_weight": 2,
+      "koli_id": "2937bdbf-315e-4c5e-b139-fd39a3dfd15f",
+      "koli_custom_field": {
+        "awb_sicepat": null,
+        "harga_barang": null
+      },
+      "koli_code": "AWB00100209082020.3"
+    }
+  ],
+  "custom_field": {
+    "catatan_tambahan": "JANGAN DI BANTING / DI TINDIH"
+  },
+  "currentLocation": {
+    "name": "Hub Jakarta Selatan",
+    "code": "JKTS01",
+    "type": "Agent"
+  }
+},{
+  "_id": {
+    "$oid": "600ab56dd3190000a0003032"
+  },
+  "transaction_id": null,
+  "customer_name": "zxfsfdksh",
+  "customer_code": "dsfhsdk",
+  "transaction_amount": "sdjfh",
+  "transaction_discount": "jsdkfhsdf",
+  "transaction_additional_field": "shdfjksdhf",
+  "transaction_payment_type": "sddfjh",
+  "transaction_state": "sdjhf",
+  "transaction_code": "kjshdfk",
+  "transaction_order": "sdjfh",
+  "location_id": "sdjfh",
+  "organization_id": "sddfjh",
+  "transaction_payment_type_name": "sdfjshd",
+  "transaction_cash_amount": "sjkdfh",
+  "transaction_cash_change": "sdjkfhsdkf",
+  "updated_at": {
+    "$date": "2021-01-22T11:22:20.998Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T11:22:20.998Z"
+  }
+},{
+  "_id": {
+    "$oid": "600ae9ee604200007c000262"
+  },
+  "transaction_id": "4657239824576748",
+  "customer_name": "hsjdfgfsgafdfahg",
+  "customer_code": "sdasdad",
+  "transaction_amount": "asd",
+  "transaction_discount": "dsad",
+  "transaction_additional_field": "dsdasdasd",
+  "transaction_payment_type": "dasdasd",
+  "transaction_state": "dqdasd",
+  "transaction_code": "dsdsdasdd",
+  "transaction_order": "asdasd",
+  "location_id": "dsadsad",
+  "organization_id": "dsadasdd",
+  "transaction_payment_type_name": "dassdasdasd",
+  "transaction_cash_amount": "dasdasdasdasdd",
+  "transaction_cash_change": "sadsadasd",
+  "updated_at": {
+    "$date": "2021-01-22T15:06:22.223Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T15:06:22.223Z"
+  }
+},{
+  "_id": {
+    "$oid": "600af4228c7000004e001032"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T15:49:53.903Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T15:49:53.903Z"
+  }
+},{
+  "_id": {
+    "$oid": "600af459e76e000097005e12"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T15:50:49.725Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T15:50:49.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "600afb5e384d00007d002f62"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T16:20:46.371Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T16:20:46.371Z"
+  }
+},{
+  "_id": {
+    "$oid": "600afbc3e409000053001c42"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T16:22:27.930Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T16:22:27.930Z"
+  }
+},{
+  "_id": {
+    "$oid": "600afbe5ca71000033004582"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T16:23:01.058Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T16:23:01.058Z"
+  }
+},{
+  "_id": {
+    "$oid": "600afbf31b27000058007902"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T16:23:15.517Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T16:23:15.517Z"
+  }
+},{
+  "_id": {
+    "$oid": "600b09bd604200007c000263"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T17:22:05.573Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T17:22:05.573Z"
+  }
+},{
+  "_id": {
+    "$oid": "600b1a6c6d0800009d002842"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T18:33:16.481Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T18:33:16.481Z"
+  }
+},{
+  "_id": {
+    "$oid": "600b1a7cb90200007d002d02"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T18:33:32.961Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T18:33:32.961Z"
+  }
+},{
+  "_id": {
+    "$oid": "600b2a3fcf440000b7003b02"
+  },
+  "transaction_id": null,
+  "customer_name": null,
+  "customer_code": null,
+  "transaction_amount": null,
+  "transaction_discount": null,
+  "transaction_additional_field": null,
+  "transaction_payment_type": null,
+  "transaction_state": null,
+  "transaction_code": null,
+  "transaction_order": null,
+  "location_id": null,
+  "organization_id": null,
+  "transaction_payment_type_name": null,
+  "transaction_cash_amount": null,
+  "transaction_cash_change": null,
+  "updated_at": {
+    "$date": "2021-01-22T19:40:47.243Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T19:40:47.243Z"
+  }
+},{
+  "_id": {
+    "$oid": "600b2b43604200007c000266"
+  },
+  "transaction_id": "1234566",
+  "customer_name": "Test2 Customer",
+  "customer_code": "234673264",
+  "transaction_amount": "70700",
+  "transaction_discount": "0",
+  "transaction_additional_field": null,
+  "transaction_payment_type": "29",
+  "transaction_state": "PAID",
+  "transaction_code": "CGKFT20200715121",
+  "transaction_order": 121,
+  "location_id": "5cecb20b6c49615b174c3e74",
+  "organization_id": 6,
+  "transaction_payment_type_name": "Invoice",
+  "transaction_cash_amount": 0,
+  "transaction_cash_change": 0,
+  "updated_at": {
+    "$date": "2021-01-22T19:49:43.424Z"
+  },
+  "created_at": {
+    "$date": "2021-01-22T19:45:07.482Z"
+  }
+}]
